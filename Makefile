@@ -17,7 +17,7 @@ $(LNAME): $(OBJS)
 install: 
 	cp -v $(LNAME) $(shell pg_config --pkglibdir)
 create:
-	psql < createFunctions.sql
+	psql < create_functions.sql
 
 
 uninstall:
