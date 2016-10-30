@@ -19,4 +19,4 @@ The probabilities are estimated by maximum likelihood from the counts.
 
 ## How to use the functions
 
-The file `test_functions.sql` contains example of using the functions to query a temporary table.
+The file `test_functions.sql` contains examples using the functions to query a temporary table.
